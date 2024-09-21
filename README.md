@@ -16,3 +16,4 @@ This project provides an AI-powered solution to automatically summarize PDF docu
 ## Screenshots
 
 - Home page
+  ![Screenshot (2180)](https://github.com/user-attachments/assets/ff6309ea-53e8-47f7-9e12-5c11b094ecc8)
